@@ -1,0 +1,54 @@
+[
+	{
+		"code": "CN",
+		"value": 1280
+	},
+	{
+		"code": "DE",
+		"value": 512
+	},
+	{
+		"code": "EE",
+		"value": 512
+	},
+	{
+		"code": "IE",
+		"value": 256
+	},
+	{
+		"code": "LV",
+		"value": 256
+	},
+	{
+		"code": "MD",
+		"value": 768
+	},
+	{
+		"code": "NL",
+		"value": 2048
+	},
+	{
+		"code": "RO",
+		"value": 256
+	},
+	{
+		"code": "RU",
+		"value": 2048
+	},
+	{
+		"code": "SC",
+		"value": 1280
+	},
+	{
+		"code": "US",
+		"value": 2816
+	},
+	{
+		"code": "VN",
+		"value": 256
+	},
+	{
+		"code": "ZA",
+		"value": 256
+	}
+]

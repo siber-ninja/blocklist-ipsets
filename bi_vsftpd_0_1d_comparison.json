@@ -1,0 +1,26 @@
+[
+	{
+		"name": "normshield_all_attack",
+		"category": "attacks",
+		"ips": 3339,
+		"common": 1
+	},
+	{
+		"name": "normshield_high_attack",
+		"category": "attacks",
+		"ips": 3329,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 1
+	},
+	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 16208,
+		"common": 1
+	}
+]

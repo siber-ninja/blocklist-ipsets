@@ -1,0 +1,116 @@
+[
+	{
+		"name": "botscout_30d",
+		"category": "abuse",
+		"ips": 17802,
+		"common": 14
+	},
+	{
+		"name": "botscout_7d",
+		"category": "abuse",
+		"ips": 6123,
+		"common": 7
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 229749,
+		"common": 13
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 54082,
+		"common": 6
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 63806,
+		"common": 17
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 20998,
+		"common": 6
+	},
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 16761,
+		"common": 2
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 389157,
+		"common": 20
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9400326,
+		"common": 14
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 647770791,
+		"common": 12
+	},
+	{
+		"name": "iblocklist_hijacked",
+		"category": "attacks",
+		"ips": 8933120,
+		"common": 3
+	},
+	{
+		"name": "sblam",
+		"category": "abuse",
+		"ips": 10709,
+		"common": 19
+	},
+	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 175431,
+		"common": 20
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 264648,
+		"common": 20
+	},
+	{
+		"name": "stopforumspam_1d",
+		"category": "abuse",
+		"ips": 7447,
+		"common": 2
+	},
+	{
+		"name": "stopforumspam_30d",
+		"category": "abuse",
+		"ips": 68784,
+		"common": 16
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 359086,
+		"common": 20
+	},
+	{
+		"name": "stopforumspam_7d",
+		"category": "abuse",
+		"ips": 26039,
+		"common": 14
+	},
+	{
+		"name": "stopforumspam_90d",
+		"category": "abuse",
+		"ips": 177667,
+		"common": 20
+	}
+]

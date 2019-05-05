@@ -1,0 +1,50 @@
+[
+	{
+		"code": "BG",
+		"value": 1
+	},
+	{
+		"code": "DE",
+		"value": 6
+	},
+	{
+		"code": "EC",
+		"value": 1
+	},
+	{
+		"code": "EE",
+		"value": 6
+	},
+	{
+		"code": "FR",
+		"value": 7
+	},
+	{
+		"code": "GB",
+		"value": 1
+	},
+	{
+		"code": "IL",
+		"value": 2
+	},
+	{
+		"code": "LT",
+		"value": 1
+	},
+	{
+		"code": "NL",
+		"value": 26
+	},
+	{
+		"code": "RU",
+		"value": 5
+	},
+	{
+		"code": "SE",
+		"value": 4
+	},
+	{
+		"code": "US",
+		"value": 10
+	}
+]
